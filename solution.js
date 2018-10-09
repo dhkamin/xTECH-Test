@@ -1,6 +1,6 @@
 
-// la solution est developpé avec un test.
-// ouvrez le terminal , aller au répertoire , exécuté  la   commande "node solution.js"
+// the solution is developed with a test.
+// open the terminal, go to the directory, execute the command "node solution.js"
 
 //test 1
 function f1 (a , b ) {
